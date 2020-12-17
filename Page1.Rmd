@@ -27,7 +27,7 @@ Colored text:
 
 Show section break line:
 
-***
+***  
 
 List:
 
